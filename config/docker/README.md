@@ -1,6 +1,6 @@
 # Official ReDoc Docker Image
 
-## Usage
+## Usage ##
 
 ### Docker
 
